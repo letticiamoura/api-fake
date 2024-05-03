@@ -81,6 +81,15 @@
       "birthDate": "29/12/1998",
       "area": "Ortodontia",
       "active": false
+    },
+    {
+      "id": 6,
+      "name": "Aurélio Alvares",
+      "cro": 4454878,
+      "cpf": "258.522.147-56",
+      "birthDate": "29/12/1998",
+      "area": "Ortodontia",
+      "active": false
     }
   ]
 }
